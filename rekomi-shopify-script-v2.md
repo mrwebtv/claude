@@ -1,29 +1,25 @@
 # How to set up an affiliate program on Shopify (Rekomi) — v2
 
 [HOOK 0:00]
-[ON SCREEN: talking head]
-Imagine this for a second. The same Shopify store you've got now, the same products. But this time, other people are selling them for you, in exchange for just a small commission on every sale they make.
+[ON SCREEN: talking head, tight, no intro]
+Imagine this time next week, fifty people are out there selling your products for you. And you only pay the ones who actually make a sale.
 
-[B-ROLL: quick montage, one cut per name]
-And there are loads of people who'd happily do it. Influencers, TikTokers, YouTubers, bloggers, podcasters, newsletter writers, mums at home, students, and your own happy customers.
+[B-ROLL: two mums at a kitchen table, lit candle between them]
+"Where did you get that candle?"
+"Wickline. Hang on, I've a code somewhere."
 
-[ON SCREEN: talking head]
-You don't need a bigger audience. You need someone else's.
-Here's how to set up an affiliate program on Shopify that makes that happen, with an app called Rekomi.
+[ON SCREEN: talking head, hard cut]
+That mum just sold a candle. She's not an influencer, she's got no website, and she never posted a link. She said a code over coffee.
+
+[ON SCREEN: talking head, punch-in]
+This is how to set up an affiliate program on Shopify that makes that happen, with an app called Rekomi.
 
 [THE CLEVER BIT]
-[ON SCREEN: talking head, punch-in]
-Now here's the clever bit, and one of the big reasons Rekomi can get you more sales: it takes the friction out.
+[ON SCREEN: talking head]
+Here's the clever bit: it takes the friction out.
 A link's great in a bio or a blog post. But nobody reads a link out loud in a TikTok, and nobody texts one to their mum.
 [ON SCREEN: text pop, "WICK15"]
 So every affiliate gets their own real discount code as well. Short, easy to remember, easy to say. Their friend just types it in at checkout, and the sale still counts.
-
-[B-ROLL: two mums chatting over coffee, a lit candle on the table]
-So picture a mum getting asked, "Where did you get that candle? It smells amazing."
-And she says, "Oh, Wickline. I've been buying them for ages. Hang on, I've a code somewhere."
-
-[B-ROLL: friend typing the code at checkout]
-Her friend saves a bit and she earns her commission. Nobody clicked a link, and it never once sounded like selling.
 
 [THE TEASE]
 [ON SCREEN: talking head, punch-in]
