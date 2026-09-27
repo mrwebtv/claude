@@ -1,26 +1,25 @@
 # How to set up an affiliate program on Shopify (Rekomi) — v2
 
-[COLD OPEN 0:00]
-[B-ROLL: two mums over coffee, a lit candle on the table]
-FRIEND: "Where did you get that candle? It smells amazing."
-MUM: "Oh, Wickline. I've been buying them for ages. Hang on, I've got a code."
-[B-ROLL: friend types WICK15 at checkout. Cut to store owner's phone: new order]
-[TEXT POP: "Sale credited: WICK15"]
-
-[HOOK 0:10]
+[HOOK 0:00]
 [ON SCREEN: talking head]
-Nobody clicked a link. Nobody ran an ad. And that sale got tracked, credited, and paid out to the person who made it happen.
-That's an affiliate program on Shopify, done properly. You don't need a bigger audience. You need someone else's.
-
-[STAKES + OPEN LOOPS 0:20]
+Here's the problem with most affiliate programs. They run on links.
+[B-ROLL: TikTok video of a creator holding up a candle, caption with a URL that isn't clickable]
+And on TikTok, you can't even put a clickable link in a video's caption.
+[B-ROLL: phone screen, zoom on "https://storename.com/?ref=creatorname"]
+And even where you can, look at it. Would you click that? It looks like spam.
 [ON SCREEN: talking head, punch-in]
-Finding people to share your stuff is the easy part. It's everything after that kills these programs. Paying people in different countries. Collecting tax forms. Working out commission when someone refunds half an order. Catching the person gaming it.
-[TEXT POP: checklist ticking one by one: Payouts / Tax forms / Refunds / Fraud]
-I'm going to set the whole thing up start to finish with an app called Rekomi, and I'll show you exactly how each of those gets handled for you.
-And if you're already on another affiliate app, stay to the end. Moving over takes one screen.
+Now compare it with this.
+[TEXT POP: WICK15]
+Short, easy to say, easy to remember, and it saves you money. Nobody thinks twice.
+[B-ROLL: WICK15 typed at checkout, then the Shopify order showing the discount]
+Someone types it in at checkout, and the sale's credited to the creator. No click. No link.
+[ON SCREEN: talking head]
+So I'll show you how to set up an affiliate program on Shopify where every affiliate gets their own real discount code, with an app called Rekomi.
+And stay for the bit most people dread: paying affiliates in 130+ countries, tax forms and refunds included, without you touching any of it.
+And if you're already on another affiliate app, stick around. Moving over takes one screen.
 Let's build it.
 
-[INSTALL ~0:45]
+[INSTALL ~0:40]
 [ON SCREEN: apps.shopify.com/rekomi, Install, app opens inside the Shopify admin]
 Rekomi's on the Shopify App Store. Install it, and it opens right inside your Shopify admin.
 [TEXT POP: 14-day free trial · billed through Shopify]
@@ -49,12 +48,12 @@ Your catalogue syncs in too, so you can set rates per product. Gift sets make yo
 
 [CODES + LINKS]
 [ON SCREEN: Coupon codes, creating a code for one affiliate]
-Remember that candle? This is where the code comes from.
+Remember WICK15? This is where it comes from.
 Rekomi creates a real Shopify discount code for every affiliate. Percentage or amount off, cap how many times it's used, give it an expiry, or limit it to certain products.
 [ON SCREEN: Shopify admin > Discounts, the code listed]
 Jump into your Shopify discounts, and there it is, like any other code.
 [B-ROLL: vertical creator video, "WICK15" overlay]
-Anyone uses it at checkout, the affiliate gets the credit. No click needed. Because nobody reads a link out loud on TikTok, and nobody texts one to their mum. Codes are how creators on TikTok, Instagram and YouTube actually send sales.
+Anyone uses it at checkout, the affiliate gets the credit, no click needed. That's how creators on TikTok, Instagram and YouTube actually send sales.
 [ON SCREEN: Product links]
 Links still work too, with first-party tracking on your own store's domain. And affiliates can link straight to one product, so if they're talking about the gift set, people land on the gift set.
 
@@ -70,7 +69,7 @@ Running ads? Drop in your GA4, Google Ads, Meta, TikTok or LinkedIn tags.
 [ON SCREEN: Affiliates, Invite]
 Now let's get affiliates in. Invite by email, one at a time or in bulk.
 [ON SCREEN: Grow section]
-But start with Grow. It turns your existing customers into affiliates. They've already bought from you, they already like it. That's our candle mum.
+But start with Grow. It turns your existing customers into affiliates. They've already bought from you, they already like it. The best people to recommend a candle are the people already burning it.
 [ON SCREEN: application opened, risk summary, Approve]
 Applications get approved right here, with a risk summary so you know who you're letting in.
 
@@ -80,7 +79,7 @@ Every sale, lead and click lands in Conversions, along with whether it's ready t
 
 [PAYOFF 1: REFUNDS + FRAUD]
 [ON SCREEN: talking head]
-Right. Those problems from the start. Here's the first two.
+Right. The bit people dread. Refunds first.
 [ON SCREEN: refunded order, commission adjusted, zoom]
 A customer refunds half their order. Rekomi claws back exactly half the commission, and it shows up here on its own.
 [ON SCREEN: click held for review]
@@ -92,7 +91,7 @@ Now the finish line. Actually paying everyone.
 [ON SCREEN: Payouts, Fund balance, Run payout]
 Add money to your balance. Run one payout. Done.
 [B-ROLL: world map, pins lighting up]
-Every affiliate gets paid in their own country, in over 165 countries, through Stripe, PayPal or bank deposit. No mass-pay file. No chasing bank details.
+Every affiliate gets paid in their own country, in over 130 countries, through Stripe, PayPal or bank deposit. No mass-pay file. No chasing bank details.
 
 [PAYOFF 3: TAX FORMS]
 [ON SCREEN: affiliate profile, W-9 on file]
